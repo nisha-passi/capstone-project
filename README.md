@@ -21,7 +21,7 @@ The data analysis part involves using SQL to explore and visualize the data.
 - Exploratory Data Analysis (EDA).
 - Visualization of data patterns and trends.
 
-### Python
+## Python
 - OTP Verification System
   
 ## Machine Learning
